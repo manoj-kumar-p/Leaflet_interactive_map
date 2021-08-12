@@ -12,7 +12,6 @@
     "build":"npm build"
   },
   "devDependencies": {
-
     "eslint": "^7.19.0",
     "eslint-config-mourner": "^2.0.1",
     "git-rev-sync": "^3.0.1",
