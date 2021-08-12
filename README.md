@@ -1,4 +1,4 @@
-# Leaflter_interactive_map
+# Leaflet_interactive_map
 
 Install node js
 
