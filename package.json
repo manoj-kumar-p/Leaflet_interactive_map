@@ -1,0 +1,26 @@
+{
+  "name": "interactivemap",
+  "version": "1.0.0",
+  "description": "Simple interactive map build using leaflet",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoj-kumar-p/Leaflter_interactive_map.git"
+  },
+  "keywords": [
+    "Map"
+  ],
+  "author": "Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manoj-kumar-p/Leaflter_interactive_map/issues"
+  },
+  "homepage": "https://github.com/manoj-kumar-p/Leaflter_interactive_map#readme"
+}
